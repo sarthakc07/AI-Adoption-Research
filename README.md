@@ -3,7 +3,7 @@
 Welcome to the literature repository and research hub for my analysis on socio-technical friction points in industrial AI integration.
 
 ### 🌐 Live Project Website
-**[Click here to view the full Literature Synthesis & Repository](https://sarthakc07.github.io/ai-adoption-research/)**
+**[Click here to view the full Literature Synthesis & Repository](https://sarthakc07.github.io/AI-Adoption-Research/)**
 
 ---
 
