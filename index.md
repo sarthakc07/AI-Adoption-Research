@@ -15,9 +15,9 @@ To understand why AI implementations fail in enterprise settings, I conducted a 
 
 Rather than viewing algorithms in a vacuum, this synthesis reveals that successful digital transformation requires joint optimization across three domains:
 
-> **1. The Human Bottleneck:** Trust deficits, cognitive resistance, and skill mismatches are primary drivers of friction, often outpacing purely technical failures.  
-> **2. Technological Constraints:** Algorithmic opacity, data silos, and legacy IT misalignment prevent seamless scaling of AI initiatives.  
-> **3. Organizational Governance:** A lack of rigid decision-making structures, unclear ROI, and policy uncertainty create environments where AI cannot be safely or effectively deployed.
+**1. The Human Bottleneck:** Trust deficits, cognitive resistance, and skill mismatches are primary drivers of friction, often outpacing purely technical failures.  
+**2. Technological Constraints:** Algorithmic opacity, data silos, and legacy IT misalignment prevent seamless scaling of AI initiatives.  
+**3. Organizational Governance:** A lack of rigid decision-making structures, unclear ROI, and policy uncertainty create environments where AI cannot be safely or effectively deployed.
 
 This theoretical foundation was subsequently validated by engineering a Python-based ETL pipeline to parse and categorize over 16,000 real-world AI incidents into these HTO failure modes.
 
