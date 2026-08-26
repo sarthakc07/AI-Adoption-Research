@@ -38,8 +38,9 @@ This theoretical foundation was subsequently validated by engineering a Python-b
 
 ### Visualizing the Empirical Data
 
-![HTO AI Incidents Distribution](data/processed/hto_distribution_chart.png)
-![OECD Longitudinal Trends](data/processed/oecd_longitudinal_trends.png)
+![HTO AI Incidents Distribution](https://raw.githubusercontent.com/sarthakc07/AI-sociotechnical-incidents-analysis/main/data/processed/hto_distribution_chart.png)
+
+![OECD Longitudinal Trends](https://raw.githubusercontent.com/sarthakc07/AI-sociotechnical-incidents-analysis/main/data/processed/oecd_longitudinal_trends.png)
 
 ---
 
