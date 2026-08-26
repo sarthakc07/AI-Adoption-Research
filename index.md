@@ -33,8 +33,6 @@ To make this research fully accessible, I developed a custom Retrieval-Augmented
 
 <br>
 
-### Empirical Findings (N = 1,607)
-
 ---
 
 ### Empirical Findings (N = 1,607)
