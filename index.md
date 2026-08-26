@@ -29,7 +29,7 @@ This theoretical foundation was subsequently validated by engineering a Python-b
 
 To make this research fully accessible, I developed a custom Retrieval-Augmented Generation (RAG) application. You can dynamically query the 1,607 parsed qualitative failure records and synthesize them with macro-level adoption trends.
 
-[![Launch Dashboard](https://img.shields.io/badge/Launch_Live_App-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://ai-incident-research.streamlit.app/)
+[![Launch Dashboard](https://img.shields.io/badge/Launch_Live_App-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://ai-incident-research.streamlit.app/)
 
 <br>
 
