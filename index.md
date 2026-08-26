@@ -25,6 +25,24 @@ This theoretical foundation was subsequently validated by engineering a Python-b
 
 ---
 
+### Empirical Findings (N = 1,607)
+
+| Socio-Technical Dimension | Incident Count | Percentage | Primary Indicators |
+| :--- | :--- | :--- | :--- |
+| **Human Oversight / Trust Breakdown** | 1,189 | 74.0% | Operator error, automation bias, user mistrust, lack of training |
+| **System Reliability / Technical Deficit** | 707 | 44.0% | Model hallucinations, data leaks, system bugs, integration failures |
+| **Governance / Organizational Deficit** | 436 | 27.1% | Compliance non-conformance, shadow AI, missing corporate policy |
+| **Cross-Dimensional Overlap** | 698 | 43.4% | Incidents spanning 2 or more HTO dimensions simultaneously |
+
+<br>
+
+### Visualizing the Empirical Data
+
+![HTO AI Incidents Distribution](data/processed/hto_distribution_chart.png)
+![OECD Longitudinal Trends](data/processed/oecd_longitudinal_trends.png)
+
+---
+
 ## 📚 Literature Repository (15 Core Papers)
 Below is the foundational research synthesized for this project. 
 
